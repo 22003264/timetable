@@ -100,4 +100,6 @@ Execute the program
 </TABLE>
 # OUPUT
 ![TIME TABLE](https://user-images.githubusercontent.com/119389139/211239761-94fa207f-78e6-41e9-ad50-b293ed709009.png)
+#Result:
+The program is succesfully completed.
 
