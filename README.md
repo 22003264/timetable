@@ -13,7 +13,8 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+### CODE:
+```
 <TABLE BORDER="3" width="750" bgcolor="cyan" cellspacing="10" cellpadding="10"> 
 <TR> 
 	<TH colspan="8" align="center" bgcolor="DARK BLUE">TIME TABLE</TH>
@@ -98,8 +99,10 @@ Execute the program
       <TD width="25%">ENGLISH</TD>
  </TR>
 </TABLE>
+```
 # OUPUT
 ![TIME TABLE](https://user-images.githubusercontent.com/119389139/211239761-94fa207f-78e6-41e9-ad50-b293ed709009.png)
-#Result:
+# Result:
+
 The program is succesfully completed.
 
